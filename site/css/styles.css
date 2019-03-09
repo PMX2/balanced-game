@@ -1,0 +1,33 @@
+header h1{
+	text-align: center;
+	text-shadow: 3px 2px red;
+}
+
+nav.menu-nav ul li.bouton{
+	display: inline-block;
+	text-indent: 50px;
+}
+nav.menu-nav ul li.bouton a{
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+}
+nav.menu-nav ul li.bouton:hover a{
+	background-color: blue;
+	padding : 6px;
+}
+nav.menu-nav{
+	border-style: solid;
+	border-radius: 12px;
+}
+
+p{
+	text-decoration: underline;
+	text-align: right;
+}
+body{
+	background: url("https://i.ytimg.com/vi/bqJoh56Sh04/maxresdefault.jpg");
+	background-size : 0%;
+}
+
+	
